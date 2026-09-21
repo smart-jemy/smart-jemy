@@ -86,6 +86,20 @@
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | About |
+|---|---|
+| [**TaskFlow**](https://github.com/smart-jemy/TaskFlow) | ✅ Production-grade multi-tenant task management — Next.js 16 · React 19 · OCC · AI-powered · 462 tests |
+| [**CloudFail-Killer**](https://github.com/smart-jemy/cloudfail-killer) | 🔓 Multi-source, IPv6-native reconnaissance tool for pentesters |
+| [**Monolith Landing**](https://github.com/smart-jemy/monolith-landing) | ⬡ Cinematic landing — WebGL morphing sphere · boot sequence · zero build |
+| [**OBLIVION Landing**](https://github.com/smart-jemy/oblivion-landing) | ⬡ Dark cinematic page for a Spatial Creation Engine — 3D wireframe glow |
+| [**ECHO Landing**](https://github.com/smart-jemy/echo-landing) | ✦ WebGL morphing sphere · golden cursor trail · card-stack showcase |
+| [**NOVA Landing**](https://github.com/smart-jemy/nova-landing) | ⚡ Particle text · custom cursor · horizontal scroll · text scramble |
+| [**SaaSFlow**](https://github.com/smart-jemy/saasflow-landing) | 🌙 Complete Arabic SaaS landing experience |
+
+---
+
 ## 🤝 Let's Connect
 
 <div align="center">
