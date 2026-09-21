@@ -90,6 +90,7 @@
 
 | Project | About |
 |---|---|
+| [**Portfolio Website**](https://github.com/smart-jemy/portfolio-website) | 💼 Bilingual (AR/EN) portfolio — Next.js 16 · React 19 · case-study pages |
 | [**TaskFlow**](https://github.com/smart-jemy/TaskFlow) | ✅ Production-grade multi-tenant task management — Next.js 16 · React 19 · OCC · AI-powered · 462 tests |
 | [**CloudFail-Killer**](https://github.com/smart-jemy/cloudfail-killer) | 🔓 Multi-source, IPv6-native reconnaissance tool for pentesters |
 | [**Monolith Landing**](https://github.com/smart-jemy/monolith-landing) | ⬡ Cinematic landing — WebGL morphing sphere · boot sequence · zero build |
