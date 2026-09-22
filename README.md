@@ -1,14 +1,18 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=00E5FF&center=true&vCenter=true&random=false&width=720&height=110&lines=Hi+there+%F0%9F%91%8B+I'm+Jemy;Computer+Engineer+%E2%9A%99%EF%B8%8F;Full-Stack+Developer+%F0%9F%92%BB;Penetration+Tester+%F0%9F%94%90" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=D4AF37&center=true&vCenter=true&random=false&width=720&height=110&lines=Hi+there+%F0%9F%91%8B+I'm+AhmeD;Computer+Engineer+%E2%9A%99%EF%B8%8F;Full-Stack+Developer+%F0%9F%92%BB;Penetration+Tester+%F0%9F%94%90" alt="Typing SVG" /></a>
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=smart-jemy&label=PROFILE+VIEWS&style=for-the-badge&color=00e5ff&labelColor=0d1117)](https://github.com/smart-jemy)
-[![Followers](https://img.shields.io/github/followers/smart-jemy?label=FOLLOWERS&style=for-the-badge&color=00e5ff&labelColor=0d1117)](https://github.com/smart-jemy?tab=followers)
-[![Stars](https://img.shields.io/github/stars/smart-jemy?affiliations=OWNER&label=STARS&style=for-the-badge&color=00e5ff&labelColor=0d1117)](https://github.com/smart-jemy?tab=repositories)
-[![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-brightgreen?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0d1117)](https://github.com/smart-jemy)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=2000&color=F6E27A&center=true&vCenter=true&width=560&height=40&lines=%E2%9C%A6+LIMITED+EDITION+%E2%9C%A6+BUILT+DIFFERENT+%E2%9C%A6" alt="Limited Edition" />
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=smart-jemy&label=PROFILE+VIEWS&style=for-the-badge&color=D4AF37&labelColor=0d1117)](https://github.com/smart-jemy)
+[![Followers](https://img.shields.io/github/followers/smart-jemy?label=FOLLOWERS&style=for-the-badge&color=D4AF37&labelColor=0d1117)](https://github.com/smart-jemy?tab=followers)
+[![Stars](https://img.shields.io/github/stars/smart-jemy?affiliations=OWNER&label=STARS&style=for-the-badge&color=D4AF37&labelColor=0d1117)](https://github.com/smart-jemy?tab=repositories)
+[![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-D4AF37?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=0d1117)](https://github.com/smart-jemy)
 
 </div>
 
@@ -17,9 +21,23 @@
 ## 💫 About Me
 
 - 🔐 **Penetration Tester** — web application pentesting, network security & vulnerability assessment
-- 💻 **Full-Stack Developer** — management systems, admin dashboards, business apps & web design
+- 💻 **Full-Stack Developer** — management systems, e-commerce stores, dashboards & web design
 - ⚙️ **Computer Engineer** — I build it, I break it, then I secure it
 - 🌍 Working with clients worldwide — open for remote projects & collaborations
+
+---
+
+## 🌐 Live Systems
+
+<div align="center">
+
+| ✦ | System | Stack |
+|---|---|---|
+| 🛍️ | **[Gadgeta — Smart Kitchen Store](https://gadgate.vercel.app)** | Next.js 16 · Prisma · Neon Postgres |
+| 👞 | **[Yalla Shiaka — Shoes Store](https://yallashiaka.vercel.app)** | Next.js 16 · Prisma · Admin & Supervisors |
+| 💼 | **[My Portfolio](https://jemyv2.vercel.app)** | Next.js 16 · React 19 · Hidden Analytics Panel |
+
+</div>
 
 ---
 
@@ -28,14 +46,14 @@
 <div align="center">
 
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
-[![Burp Suite](https://img.shields.io/badge/Burp%20Suite-E66433?style=for-the-badge&labelColor=0d1117&color=E66433)](https://portswigger.net/burp)
+[![Burp Suite](https://img.shields.io/badge/Burp%20Suite-D4AF37?style=for-the-badge&labelColor=0d1117&color=D4AF37)](https://portswigger.net/burp)
 [![Nmap](https://img.shields.io/badge/Nmap-2E7D32?style=for-the-badge&labelColor=0d1117&color=2E7D32)](https://nmap.org/)
-[![Metasploit](https://img.shields.io/badge-Metasploit-2596CD?style=for-the-badge&labelColor=0d1117&color=2596CD)](https://www.metasploit.com/)
-[![Wireshark](https://img.shields.io/badge-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
+[![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&labelColor=0d1117&color=2596CD)](https://www.metasploit.com/)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
 [![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-5C90BF?style=for-the-badge&labelColor=0d1117&color=5C90BF)](https://www.zaproxy.org/)
-[![sqlmap](https://img.shields.io/badge/sqlmap-E34F26?style=for-the-badge&labelColor=0d1117&color=8B1A1A)](https://sqlmap.org/)
+[![sqlmap](https://img.shields.io/badge/sqlmap-D4AF37?style=for-the-badge&labelColor=0d1117&color=8B6914)](https://sqlmap.org/)
 [![Hydra](https://img.shields.io/badge/THC%20Hydra-6C3483?style=for-the-badge&labelColor=0d1117&color=6C3483)](https://github.com/vanhauser-thc/thc-hydra)
-[![Hashcat](https://img.shields.io/badge/Hashcat-154C79?style=for-the-badge&labelColor=0d1117&color=154C79)](https://hashcat.net/hashcat/)
+[![Hashcat](https://img.shields.io/badge/Hashcat-D4AF37?style=for-the-badge&labelColor=0d1117&color=8B6914)](https://hashcat.net/hashcat/)
 [![Nessus](https://img.shields.io/badge/Nessus-00A0DF?style=for-the-badge&labelColor=0d1117&color=00A0DF)](https://www.tenable.com/products/nessus)
 [![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-1B865F?style=for-the-badge&labelColor=0d1117&color=1B865F)](https://www.aircrack-ng.org/)
 
@@ -53,7 +71,7 @@
 
 **Backend & Databases**
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,php,python,mysql,mongodb,firebase&theme=dark" alt="Backend skills" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,php,python,mysql,postgres,mongodb&theme=dark" alt="Backend skills" /></a>
 
 **Tools & DevOps**
 
@@ -63,14 +81,27 @@
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | About |
+|---|---|
+| [**Portfolio Website**](https://github.com/smart-jemy/portfolio-website) → [**LIVE**](https://jemyv2.vercel.app) | 💼 Bilingual (AR/EN) portfolio — Next.js 16 · React 19 · hidden analytics panel |
+| [**Gadgeta Store**](https://github.com/smart-jemy/gadgeta) → [**LIVE**](https://gadgate.vercel.app) | 🍳 Smart-kitchen e-commerce — coupons · golden deals · Neon Postgres |
+| [**Yalla Shiaka Store**](https://github.com/smart-jemy/khatwa-store) → [**LIVE**](https://yallashiaka.vercel.app) | 🥾 E-commerce with admin & supervisor dashboards — Next.js · Prisma |
+| [**TaskFlow**](https://github.com/smart-jemy/TaskFlow) | ✅ Production-grade multi-tenant task management — OCC · AI-powered · 462 tests |
+| [**CloudFail-Killer**](https://github.com/smart-jemy/cloudfail-killer) | 🔓 Multi-source, IPv6-native reconnaissance tool for pentesters |
+| [**Cinematic Landings**](https://github.com/smart-jemy/monolith-landing) | ⬡ MONOLITH · OBLIVION · ECHO · NOVA — WebGL experiences, zero build |
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=smart-jemy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&icon_color=00e5ff&ring_color=00e5ff" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smart-jemy&layout=compact&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&langs_count=8" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=smart-jemy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=D4AF37&text_color=c9d1d9&icon_color=D4AF37&ring_color=D4AF37" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smart-jemy&layout=compact&hide_border=true&bg_color=0d1117&title_color=D4AF37&text_color=c9d1d9&langs_count=8" alt="Top languages" />
 
-<img width="70%" src="https://streak-stats.demolab.com?user=smart-jemy&hide_border=true&background=0d1117&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=smart-jemy&hide_border=true&background=0d1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub streak" />
 
 </div>
 
@@ -80,27 +111,9 @@
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=smart-jemy&row=1&column=8&no-frame=true&no-bg=true&theme=tokyonight&margin-w=6" alt="Trophies" />
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=smart-jemy&row=1&column=8&no-frame=true&no-bg=true&theme=matrix&margin-w=6" alt="Trophies" />
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-> 🌐 **Portfolio live:** [jemyv2.vercel.app](https://jemyv2.vercel.app)
-
-| Project | About |
-|---|---|
-| [**Portfolio Website**](https://github.com/smart-jemy/portfolio-website) → [**LIVE**](https://jemyv2.vercel.app) | 💼 Bilingual (AR/EN) portfolio — Next.js 16 · React 19 · case-study pages |
-| [**Yalla Shiaka Store**](https://github.com/smart-jemy/khatwa-store) → [**LIVE**](https://yallashiaka.vercel.app) | 🛍️ E-commerce with admin & supervisor dashboards — Next.js · Prisma |
-| [**TaskFlow**](https://github.com/smart-jemy/TaskFlow) | ✅ Production-grade multi-tenant task management — Next.js 16 · React 19 · OCC · AI-powered · 462 tests |
-| [**CloudFail-Killer**](https://github.com/smart-jemy/cloudfail-killer) | 🔓 Multi-source, IPv6-native reconnaissance tool for pentesters |
-| [**Monolith Landing**](https://github.com/smart-jemy/monolith-landing) | ⬡ Cinematic landing — WebGL morphing sphere · boot sequence · zero build |
-| [**OBLIVION Landing**](https://github.com/smart-jemy/oblivion-landing) | ⬡ Dark cinematic page for a Spatial Creation Engine — 3D wireframe glow |
-| [**ECHO Landing**](https://github.com/smart-jemy/echo-landing) | ✦ WebGL morphing sphere · golden cursor trail · card-stack showcase |
-| [**NOVA Landing**](https://github.com/smart-jemy/nova-landing) | ⚡ Particle text · custom cursor · horizontal scroll · text scramble |
-| [**SaaSFlow**](https://github.com/smart-jemy/saasflow-landing) | 🌙 Complete Arabic SaaS landing experience |
 
 ---
 
@@ -108,11 +121,15 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-smart--jemy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smart-jemy)
+[![GitHub](https://img.shields.io/badge/GitHub-smart--jemy-D4AF37?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/smart-jemy)
+[![Email](https://img.shields.io/badge/Email-ntgi46@proton.me-D4AF37?style=for-the-badge&logo=protonmail&logoColor=black&labelColor=0d1117)](mailto:ntgi46@proton.me)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B20%20114%20825%202590-D4AF37?style=for-the-badge&logo=whatsapp&logoColor=black&labelColor=0d1117)](https://wa.me/201148252590)
 
 **Open for** pentest engagements 🔐 • full-stack builds 💻 • collaborations 🤝
 
 *Find a vulnerability in my code? Congrats — you passed the first test.* 😏
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=12&pause=2000&color=D4AF37&center=true&vCenter=true&width=420&height=36&lines=%E2%9C%A6+AHMED+%C2%B7+LIMITED+EDITION+%C2%B7+CAIRO%2C+EGYPT+%E2%9C%A6" alt="Signature" />
 
 </div>
 
