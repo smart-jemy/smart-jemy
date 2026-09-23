@@ -33,8 +33,9 @@
 
 | ✦ | System | Stack |
 |---|---|---|
-| 🛍️ | **[Gadgeta — Smart Kitchen Store](https://gadgate.vercel.app)** | Next.js 16 · Prisma · Neon Postgres |
+| 🍳 | **[Gadgeta — Magic & Innovation](https://gadgate.vercel.app)** | Next.js 16 · Prisma · Neon Postgres |
 | 👞 | **[Yalla Shiaka — Shoes Store](https://yallashiaka.vercel.app)** | Next.js 16 · Prisma · Admin & Supervisors |
+| 🔧 | **[Noor Center — Maintenance System](https://noorcenter.gt.tc)** | Laravel · MySQL · Role-based |
 | 💼 | **[My Portfolio](https://jemyv2.vercel.app)** | Next.js 16 · React 19 · Hidden Analytics Panel |
 
 </div>
@@ -86,10 +87,11 @@
 | Project | About |
 |---|---|
 | [**Portfolio Website**](https://github.com/smart-jemy/portfolio-website) → [**LIVE**](https://jemyv2.vercel.app) | 💼 Bilingual (AR/EN) portfolio — Next.js 16 · React 19 · hidden analytics panel |
-| [**Gadgeta Store**](https://github.com/smart-jemy/gadgeta) → [**LIVE**](https://gadgate.vercel.app) | 🍳 Smart-kitchen e-commerce — coupons · golden deals · Neon Postgres |
+| [**Gadgeta Store**](https://github.com/smart-jemy/gadgeta) → [**LIVE**](https://gadgate.vercel.app) | 🍳 Magic & Innovation e-commerce — golden deals · coupons · Neon Postgres |
 | [**Yalla Shiaka Store**](https://github.com/smart-jemy/khatwa-store) → [**LIVE**](https://yallashiaka.vercel.app) | 🥾 E-commerce with admin & supervisor dashboards — Next.js · Prisma |
 | [**TaskFlow**](https://github.com/smart-jemy/TaskFlow) | ✅ Production-grade multi-tenant task management — OCC · AI-powered · 462 tests |
 | [**CloudFail-Killer**](https://github.com/smart-jemy/cloudfail-killer) | 🔓 Multi-source, IPv6-native reconnaissance tool for pentesters |
+| [**Noor Center**](https://github.com/smart-jemy/noor-center) → [**LIVE**](https://noorcenter.gt.tc) | 🔧 Maintenance-center management system — Laravel · MySQL · roles |
 | [**Cinematic Landings**](https://github.com/smart-jemy/monolith-landing) | ⬡ MONOLITH · OBLIVION · ECHO · NOVA — WebGL experiences, zero build |
 
 ---
