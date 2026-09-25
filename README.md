@@ -36,6 +36,7 @@
 | 🍳 | **[Gadgeta — Magic & Innovation](https://gadgate.vercel.app)** | Next.js 16 · Prisma · Neon Postgres |
 | 👞 | **[Yalla Shiaka — Shoes Store](https://yallashiaka.vercel.app)** | Next.js 16 · Prisma · Admin & Supervisors |
 | 🔧 | **[Noor Center — Maintenance System](https://noorcenter.gt.tc)** | Laravel · MySQL · Role-based |
+| 🛵 | **[طلبات المنيب — Zone Delivery App](https://smart-jemy.github.io/moneib-menu/)** | Android APK · Web App · Admin Panel · V2 |
 | 💼 | **[My Portfolio](https://jemyv2.vercel.app)** | Next.js 16 · React 19 · Hidden Analytics Panel |
 
 </div>
