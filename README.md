@@ -43,6 +43,32 @@
 
 ---
 
+---
+
+## 🛵 Spotlight — طلبات المنيب (Latest Release)
+
+<div align="center">
+
+**أول زون-ابليكيشن في مصر** — منصة توصيل مخصوصة لمنطقة المنيب بالكامل:
+مطاعم + أي طلبات يومية (سوبر ماركت · صيدلية · مشاوير) + كباتن من أهل المنطقة + لوحة تحكم كاملة — **بصفر تكاليف سيرفر**.
+
+[![Release](https://img.shields.io/badge/release-v1.5-FF5A00?style=for-the-badge&labelColor=0d1117)](https://github.com/smart-jemy/moneib-talabat/releases)
+[![Security](https://img.shields.io/badge/security%20audit-0%20findings-17A05D?style=for-the-badge&labelColor=0d1117)](https://github.com/smart-jemy/moneib-talabat)
+[![Server cost](https://img.shields.io/badge/server%20cost-%240-2E7DD1?style=for-the-badge&labelColor=0d1117)](https://github.com/smart-jemy/moneib-talabat)
+[![Live](https://img.shields.io/badge/دخول_الموقع- اضغط_هنا-FF5A00?style=for-the-badge&labelColor=0d1117)](https://smart-jemy.github.io/moneib-menu/)
+
+| تطبيق أندرويد | لوحة تحكم الإدارة | طلب أونلاين |
+|---|---|---|
+| <img src="https://files.catbox.moe/kis4tv.png" width="240" alt="app" /> | <img src="https://files.catbox.moe/fkf6k0.png" width="300" alt="admin" /> | <img src="https://files.catbox.moe/594nxa.png" width="240" alt="web" /> |
+
+📌 **[الموقع الحي](https://smart-jemy.github.io/moneib-menu/)** · **[📥 تحميل APK](https://files.catbox.moe/5oqjyt.apk)** · **[📖 Case Study كاملة](https://jemyv2.vercel.app/projects/moneib-delivery)** · **[الكود (خاص)](https://github.com/smart-jemy/moneib-talabat)**
+
+**إزاي بنيت المنيو يتحديث لحظيًا بدون سيرفر:** لوحة تحكم → قاعدة بيانات خاصة على GitHub API → نشر لفيد عام → التطبيق والموقع يتحدثوا في دقائق. والكابتن بيتحقق بهاش SHA-256 — أرقام شخصية مش منشورة أبدًا.
+
+</div>
+
+---
+
 ## 🛡️ Cybersecurity Arsenal
 
 <div align="center">
@@ -79,6 +105,10 @@
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode,postman&theme=dark" alt="Tools skills" /></a>
 
+**Mobile & Delivery**
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,android,flutter&theme=dark" alt="Mobile skills" /></a>
+
 </div>
 
 ---
@@ -87,6 +117,7 @@
 
 | Project | About |
 |---|---|
+| 🛵 **[Moneib Delivery — طلبات المنيب](https://github.com/smart-jemy/moneib-talabat)** → [**LIVE**](https://smart-jemy.github.io/moneib-menu/) | 🚀 Zone-locked delivery platform — Android (native Java, 112KB) · Web · Admin dashboard · GitHub-backed data · 0 security findings |
 | [**Portfolio Website**](https://github.com/smart-jemy/portfolio-website) → [**LIVE**](https://jemyv2.vercel.app) | 💼 Bilingual (AR/EN) portfolio — Next.js 16 · React 19 · hidden analytics panel |
 | [**Gadgeta Store**](https://github.com/smart-jemy/gadgeta) → [**LIVE**](https://gadgate.vercel.app) | 🍳 Magic & Innovation e-commerce — golden deals · coupons · Neon Postgres |
 | [**Yalla Shiaka Store**](https://github.com/smart-jemy/khatwa-store) → [**LIVE**](https://yallashiaka.vercel.app) | 🥾 E-commerce with admin & supervisor dashboards — Next.js · Prisma |
@@ -105,6 +136,11 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smart-jemy&layout=compact&hide_border=true&bg_color=0d1117&title_color=D4AF37&text_color=c9d1d9&langs_count=8" alt="Top languages" />
 
 <img width="70%" src="https://streak-stats.demolab.com?user=smart-jemy&hide_border=true&background=0d1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub streak" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smart-jemy&theme=github_dark" alt="Profile summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smart-jemy&theme=github_dark" alt="Repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smart-jemy&theme=github_dark" alt="Most commit language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=smart-jemy&theme=github_dark" alt="Productive time" />
 
 </div>
 
