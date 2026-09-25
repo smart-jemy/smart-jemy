@@ -55,7 +55,7 @@
 [![Release](https://img.shields.io/badge/release-v1.5-FF5A00?style=for-the-badge&labelColor=0d1117)](https://github.com/smart-jemy/moneib-talabat/releases)
 [![Security](https://img.shields.io/badge/security%20audit-0%20findings-17A05D?style=for-the-badge&labelColor=0d1117)](https://github.com/smart-jemy/moneib-talabat)
 [![Server cost](https://img.shields.io/badge/server%20cost-%240-2E7DD1?style=for-the-badge&labelColor=0d1117)](https://github.com/smart-jemy/moneib-talabat)
-[![Live](https://img.shields.io/badge/دخول_الموقع- اضغط_هنا-FF5A00?style=for-the-badge&labelColor=0d1117)](https://smart-jemy.github.io/moneib-menu/)
+[![OPEN APP](https://img.shields.io/badge/OPEN%20APP-%F0%9F%9B%B5%20LIVE-FF5A00?style=for-the-badge&labelColor=0d1117)](https://smart-jemy.github.io/moneib-menu/)
 
 | تطبيق أندرويد | لوحة تحكم الإدارة | طلب أونلاين |
 |---|---|---|
@@ -63,7 +63,7 @@
 
 📌 **[الموقع الحي](https://smart-jemy.github.io/moneib-menu/)** · **[📥 تحميل APK](https://files.catbox.moe/5oqjyt.apk)** · **[📖 Case Study كاملة](https://jemyv2.vercel.app/projects/moneib-delivery)** · **[الكود (خاص)](https://github.com/smart-jemy/moneib-talabat)**
 
-**إزاي بنيت المنيو يتحديث لحظيًا بدون سيرفر:** لوحة تحكم → قاعدة بيانات خاصة على GitHub API → نشر لفيد عام → التطبيق والموقع يتحدثوا في دقائق. والكابتن بيتحقق بهاش SHA-256 — أرقام شخصية مش منشورة أبدًا.
+**تجربة كاملة لايف:** تطبيق أندرويد + موقع طلب + لوحة إدارة + نظام كباتن معتمدين — شغالة على منطقة حقيقية، والبنية جاهزة للتوسع لمناطق جديدة.
 
 </div>
 
