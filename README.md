@@ -43,8 +43,6 @@
 
 ---
 
----
-
 ## 🛵 Spotlight — طلبات المنيب (Latest Release)
 
 <div align="center">
@@ -150,7 +148,11 @@
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=smart-jemy&row=1&column=8&no-frame=true&no-bg=true&theme=matrix&margin-w=6" alt="Trophies" />
+[![🥇 5 LIVE SYSTEMS](https://img.shields.io/badge/🥇-5_LIVE_SYSTEMS-D4AF37?style=for-the-badge&labelColor=0d1117)](https://github.com/smart-jemy?tab=repositories)
+[![📦 14 REPOSITORIES](https://img.shields.io/badge/📦-14_REPOSITORIES-D4AF37?style=for-the-badge&labelColor=0d1117)](https://github.com/smart-jemy?tab=repositories)
+[![🛵 MONEIB v1.5 SHIPPED](https://img.shields.io/badge/🛵-MONEIB_v1.5_SHIPPED-FF5A00?style=for-the-badge&labelColor=0d1117)](https://github.com/smart-jemy/moneib-menu)
+[![🔐 SECURITY FIRST](https://img.shields.io/badge/🔐-SECURITY_FIRST-17A05D?style=for-the-badge&labelColor=0d1117)](https://github.com/smart-jemy/cloudfail-killer)
+[![⚡ ZERO SERVER COSTS](https://img.shields.io/badge/⚡-ZERO_SERVER_COSTS-2E7DD1?style=for-the-badge&labelColor=0d1117)](https://github.com/smart-jemy/moneib-talabat)
 
 </div>
 
