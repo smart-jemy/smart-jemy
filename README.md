@@ -132,8 +132,6 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=smart-jemy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=D4AF37&text_color=c9d1d9&icon_color=D4AF37&ring_color=D4AF37" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smart-jemy&layout=compact&hide_border=true&bg_color=0d1117&title_color=D4AF37&text_color=c9d1d9&langs_count=8" alt="Top languages" />
 
 <img width="70%" src="https://streak-stats.demolab.com?user=smart-jemy&hide_border=true&background=0d1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub streak" />
 
