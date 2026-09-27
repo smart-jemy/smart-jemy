@@ -47,7 +47,7 @@
 
 <div align="center">
 
-<img src="https://smart-jemy.github.io/moneib-menu/logo.png" alt="اطلبني — Otlobny" width="420" />
+<img src="https://raw.githubusercontent.com/smart-jemy/moneib-menu/pages/logo.png" alt="اطلبني — Otlobny" width="480" />
 
 **أول زون-ابليكيشن في مصر** — منصة توصيل مخصوصة لمنطقة المنيب بالكامل:
 مطاعم + أي طلبات يومية (سوبر ماركت · صيدلية · مشاوير) + كباتن من أهل المنطقة + لوحة تحكم كاملة — **بصفر تكاليف سيرفر**.
