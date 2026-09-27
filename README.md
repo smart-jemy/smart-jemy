@@ -36,16 +36,18 @@
 | 🍳 | **[Gadgeta — Magic & Innovation](https://gadgate.vercel.app)** | Next.js 16 · Prisma · Neon Postgres |
 | 👞 | **[Yalla Shiaka — Shoes Store](https://yallashiaka.vercel.app)** | Next.js 16 · Prisma · Admin & Supervisors |
 | 🔧 | **[Noor Center — Maintenance System](https://noorcenter.gt.tc)** | Laravel · MySQL · Role-based |
-| 🛵 | **[طلبات المنيب — Zone Delivery App](https://smart-jemy.github.io/moneib-menu/)** | Android APK · Web App · Admin Panel · V2 |
+| 🛵 | **[اطلبني — Zone Delivery App](https://smart-jemy.github.io/moneib-menu/)** | Android APK · Web App · Admin Panel · V2 |
 | 💼 | **[My Portfolio](https://jemyv2.vercel.app)** | Next.js 16 · React 19 · Hidden Analytics Panel |
 
 </div>
 
 ---
 
-## 🛵 Spotlight — طلبات المنيب (Latest Release)
+## 🛵 Spotlight — اطلبني (Latest Release)
 
 <div align="center">
+
+<img src="https://smart-jemy.github.io/moneib-menu/logo.png" alt="اطلبني — Otlobny" width="420" />
 
 **أول زون-ابليكيشن في مصر** — منصة توصيل مخصوصة لمنطقة المنيب بالكامل:
 مطاعم + أي طلبات يومية (سوبر ماركت · صيدلية · مشاوير) + كباتن من أهل المنطقة + لوحة تحكم كاملة — **بصفر تكاليف سيرفر**.
@@ -115,7 +117,7 @@
 
 | Project | About |
 |---|---|
-| 🛵 **[Moneib Delivery — طلبات المنيب](https://github.com/smart-jemy/moneib-talabat)** → [**LIVE**](https://smart-jemy.github.io/moneib-menu/) | 🚀 Zone-locked delivery platform — Android (native Java, 112KB) · Web · Admin dashboard · GitHub-backed data · 0 security findings |
+| 🛵 **[Otlobny — اطلبني](https://github.com/smart-jemy/moneib-talabat)** → [**LIVE**](https://smart-jemy.github.io/moneib-menu/) | 🚀 Zone-locked delivery platform — Android (native Java, 112KB) · Web · Admin dashboard · GitHub-backed data · 0 security findings |
 | [**Portfolio Website**](https://github.com/smart-jemy/portfolio-website) → [**LIVE**](https://jemyv2.vercel.app) | 💼 Bilingual (AR/EN) portfolio — Next.js 16 · React 19 · hidden analytics panel |
 | [**Gadgeta Store**](https://github.com/smart-jemy/gadgeta) → [**LIVE**](https://gadgate.vercel.app) | 🍳 Magic & Innovation e-commerce — golden deals · coupons · Neon Postgres |
 | [**Yalla Shiaka Store**](https://github.com/smart-jemy/khatwa-store) → [**LIVE**](https://yallashiaka.vercel.app) | 🥾 E-commerce with admin & supervisor dashboards — Next.js · Prisma |
@@ -150,7 +152,7 @@
 
 [![🥇 5 LIVE SYSTEMS](https://img.shields.io/badge/🥇-5_LIVE_SYSTEMS-D4AF37?style=for-the-badge&labelColor=0d1117)](https://github.com/smart-jemy?tab=repositories)
 [![📦 14 REPOSITORIES](https://img.shields.io/badge/📦-14_REPOSITORIES-D4AF37?style=for-the-badge&labelColor=0d1117)](https://github.com/smart-jemy?tab=repositories)
-[![🛵 MONEIB v1.5 SHIPPED](https://img.shields.io/badge/🛵-MONEIB_v1.5_SHIPPED-FF5A00?style=for-the-badge&labelColor=0d1117)](https://github.com/smart-jemy/moneib-menu)
+[![🛵 OTLOBNY v1.5 SHIPPED](https://img.shields.io/badge/🛵-MONEIB_v1.5_SHIPPED-FF5A00?style=for-the-badge&labelColor=0d1117)](https://github.com/smart-jemy/moneib-menu)
 [![🔐 SECURITY FIRST](https://img.shields.io/badge/🔐-SECURITY_FIRST-17A05D?style=for-the-badge&labelColor=0d1117)](https://github.com/smart-jemy/cloudfail-killer)
 [![⚡ ZERO SERVER COSTS](https://img.shields.io/badge/⚡-ZERO_SERVER_COSTS-2E7DD1?style=for-the-badge&labelColor=0d1117)](https://github.com/smart-jemy/moneib-talabat)
 
