@@ -38,6 +38,7 @@ servers hidden behind Cloudflare — 15+ passive & active data sources, a 6-stag
 pipeline, and confidence-scored results. Built for pentesters & bug bounty hunters.
 
 [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)](https://github.com/smart-jemy/cloudfail-killer)
+[![PyPI](https://img.shields.io/pypi/v/cloudkill?logo=pypi&logoColor=white)](https://pypi.org/project/cloudkill/)
 [![Tests](https://img.shields.io/badge/tests-343%20passed-17A05D?logo=pytest&logoColor=white)](https://github.com/smart-jemy/cloudfail-killer)
 [![IPv6](https://img.shields.io/badge/IPv6--Native-FF6B35)](https://github.com/smart-jemy/cloudfail-killer)
 [![SARIF](https://img.shields.io/badge/exports-SARIF%202.1-4B32C3)](https://github.com/smart-jemy/cloudfail-killer)
