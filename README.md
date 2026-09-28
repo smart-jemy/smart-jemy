@@ -27,6 +27,28 @@
 
 ---
 
+## ⭐ Pinned — CloudFail-Killer (CloudKill)
+
+<div align="center">
+
+### 🔓 [CloudKill — Origin IP Discovery](https://github.com/smart-jemy/cloudfail-killer)
+
+**My flagship security tool.** Multi-source, IPv6-native reconnaissance that finds origin
+servers hidden behind Cloudflare — 15+ passive & active data sources, a 6-stage enrichment
+pipeline, and confidence-scored results. Built for pentesters & bug bounty hunters.
+
+[![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)](https://github.com/smart-jemy/cloudfail-killer)
+[![Tests](https://img.shields.io/badge/tests-343%20passed-17A05D?logo=pytest&logoColor=white)](https://github.com/smart-jemy/cloudfail-killer)
+[![IPv6](https://img.shields.io/badge/IPv6--Native-FF6B35)](https://github.com/smart-jemy/cloudfail-killer)
+[![SARIF](https://img.shields.io/badge/exports-SARIF%202.1-4B32C3)](https://github.com/smart-jemy/cloudfail-killer)
+[![License](https://img.shields.io/badge/license-MIT-17A05D)](https://github.com/smart-jemy/cloudfail-killer)
+
+`crt.sh` · `Shodan` · `Censys` · `Wayback` · `URLScan` · `DNSDumpster` · `GitHub Dorking` · signed reports (ed25519) · plugin sources · CI mode
+
+</div>
+
+---
+
 ## 🌐 Live Systems
 
 <div align="center">
@@ -47,7 +69,9 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/smart-jemy/moneib-menu/pages/logo.png" alt="اطلبني — Otlobny" width="480" />
+<img src="assets/otlobny-qr.png" alt="اطلبني — امسح واطلب" width="170" />
+
+**📱 امسح الكود واطلب من المنيب فوراً**
 
 **أول زون-ابليكيشن في مصر** — منصة توصيل مخصوصة لمنطقة المنيب بالكامل:
 مطاعم + أي طلبات يومية (سوبر ماركت · صيدلية · مشاوير) + كباتن من أهل المنطقة + لوحة تحكم كاملة — **بصفر تكاليف سيرفر**.
@@ -59,7 +83,7 @@
 
 | تطبيق أندرويد | لوحة تحكم الإدارة | طلب أونلاين |
 |---|---|---|
-| <img src="https://files.catbox.moe/kis4tv.png" width="240" alt="app" /> | <img src="https://files.catbox.moe/fkf6k0.png" width="300" alt="admin" /> | <img src="https://files.catbox.moe/594nxa.png" width="240" alt="web" /> |
+| <img src="assets/otlobny-app.png" width="240" alt="app" /> | <img src="assets/otlobny-admin.png" width="300" alt="admin" /> | <img src="assets/otlobny-web.png" width="240" alt="web" /> |
 
 📌 **[الموقع الحي](https://smart-jemy.github.io/moneib-menu/)** · **[📥 تحميل APK](https://files.catbox.moe/5oqjyt.apk)** · **[📖 Case Study كاملة](https://jemyv2.vercel.app/projects/moneib-delivery)** · **[الكود (خاص)](https://github.com/smart-jemy/moneib-talabat)**
 
@@ -77,7 +101,7 @@
 [![Burp Suite](https://img.shields.io/badge/Burp%20Suite-D4AF37?style=for-the-badge&labelColor=0d1117&color=D4AF37)](https://portswigger.net/burp)
 [![Nmap](https://img.shields.io/badge/Nmap-2E7D32?style=for-the-badge&labelColor=0d1117&color=2E7D32)](https://nmap.org/)
 [![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&labelColor=0d1117&color=2596CD)](https://www.metasploit.com/)
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&labelColor=0d1117&color=1679A7)](https://www.wireshark.org/)
 [![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-5C90BF?style=for-the-badge&labelColor=0d1117&color=5C90BF)](https://www.zaproxy.org/)
 [![sqlmap](https://img.shields.io/badge/sqlmap-D4AF37?style=for-the-badge&labelColor=0d1117&color=8B6914)](https://sqlmap.org/)
 [![Hydra](https://img.shields.io/badge/THC%20Hydra-6C3483?style=for-the-badge&labelColor=0d1117&color=6C3483)](https://github.com/vanhauser-thc/thc-hydra)
@@ -117,12 +141,12 @@
 
 | Project | About |
 |---|---|
+| 🔓 **[CloudFail-Killer (CloudKill)](https://github.com/smart-jemy/cloudfail-killer)** | ⭐ **Flagship security tool** — origin-IP discovery behind Cloudflare · 15+ sources · 343 tests · SARIF & signed reports |
 | 🛵 **[Otlobny — اطلبني](https://github.com/smart-jemy/moneib-talabat)** → [**LIVE**](https://smart-jemy.github.io/moneib-menu/) | 🚀 Zone-locked delivery platform — Android (native Java, 112KB) · Web · Admin dashboard · GitHub-backed data · 0 security findings |
 | [**Portfolio Website**](https://github.com/smart-jemy/portfolio-website) → [**LIVE**](https://jemyv2.vercel.app) | 💼 Bilingual (AR/EN) portfolio — Next.js 16 · React 19 · hidden analytics panel |
 | [**Gadgeta Store**](https://github.com/smart-jemy/gadgeta) → [**LIVE**](https://gadgate.vercel.app) | 🍳 Magic & Innovation e-commerce — golden deals · coupons · Neon Postgres |
 | [**Yalla Shiaka Store**](https://github.com/smart-jemy/khatwa-store) → [**LIVE**](https://yallashiaka.vercel.app) | 🥾 E-commerce with admin & supervisor dashboards — Next.js · Prisma |
 | [**TaskFlow**](https://github.com/smart-jemy/TaskFlow) | ✅ Production-grade multi-tenant task management — OCC · AI-powered · 462 tests |
-| [**CloudFail-Killer**](https://github.com/smart-jemy/cloudfail-killer) | 🔓 Multi-source, IPv6-native reconnaissance tool for pentesters |
 | [**Noor Center**](https://github.com/smart-jemy/noor-center) → [**LIVE**](https://noorcenter.gt.tc) | 🔧 Maintenance-center management system — Laravel · MySQL · roles |
 | [**Cinematic Landings**](https://github.com/smart-jemy/monolith-landing) | ⬡ MONOLITH · OBLIVION · ECHO · NOVA — WebGL experiences, zero build |
 
@@ -132,13 +156,17 @@
 
 <div align="center">
 
-
 <img width="70%" src="https://streak-stats.demolab.com?user=smart-jemy&hide_border=true&background=0d1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub streak" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smart-jemy&theme=github_dark" alt="Profile summary" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smart-jemy&theme=github_dark" alt="Repos per language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smart-jemy&theme=github_dark" alt="Most commit language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=smart-jemy&theme=github_dark" alt="Productive time" />
+<br/>
+
+<img src="profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile summary" />
+<img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" />
+
+<img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most commit language" />
+<img src="profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time" />
+
+<sub>🔄 self-rendered daily by GitHub Actions — never rate-limited</sub>
 
 </div>
 
