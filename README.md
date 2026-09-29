@@ -59,7 +59,7 @@ pipeline, and confidence-scored results. Built for pentesters & bug bounty hunte
 | 🍳 | **[Gadgeta — Magic & Innovation](https://gadgate.vercel.app)** | Next.js 16 · Prisma · Neon Postgres |
 | 👞 | **[Yalla Shiaka — Shoes Store](https://yallashiaka.vercel.app)** | Next.js 16 · Prisma · Admin & Supervisors |
 | 🔧 | **[Noor Center — Maintenance System](https://noorcenter.gt.tc)** | Laravel · MySQL · Role-based |
-| 🛵 | **[اطلبني — Zone Delivery App](https://smart-jemy.github.io/moneib-menu/)** | Android APK · Web App · Admin Panel · V2 |
+| 🛵 | **[اطلبني — Zone Delivery App](https://otlobni.surge.sh)** | Android APK · Web App · Admin Panel · V2 |
 | 💼 | **[My Portfolio](https://jemyv2.vercel.app)** | Next.js 16 · React 19 · Hidden Analytics Panel |
 
 </div>
@@ -75,18 +75,20 @@ pipeline, and confidence-scored results. Built for pentesters & bug bounty hunte
 **📱 امسح الكود واطلب من المنيب فوراً**
 
 **أول زون-ابليكيشن في مصر** — منصة توصيل مخصوصة لمنطقة المنيب بالكامل:
-مطاعم + أي طلبات يومية (سوبر ماركت · صيدلية · مشاوير) + كباتن من أهل المنطقة + لوحة تحكم كاملة — **بصفر تكاليف سيرفر**.
+مطاعم بتدير منيوهاتها بنفسها + أي طلبات يومية (سوبر ماركت · صيدلية · مشاوير) + كباتن من أهل المنطقة بإسناد لحظي + لوحة تحكم كاملة — **بصفر تكاليف سيرفر**.
 
-[![Release](https://img.shields.io/badge/release-v1.5-FF5A00?style=for-the-badge&labelColor=0d1117)](https://github.com/smart-jemy/moneib-talabat/releases)
+[![Release](https://img.shields.io/badge/release-v2.1-0098B0?style=for-the-badge&labelColor=0d1117)](https://github.com/smart-jemy/moneib-talabat/releases)
 [![Security](https://img.shields.io/badge/security%20audit-0%20findings-17A05D?style=for-the-badge&labelColor=0d1117)](https://github.com/smart-jemy/moneib-talabat)
 [![Server cost](https://img.shields.io/badge/server%20cost-%240-2E7DD1?style=for-the-badge&labelColor=0d1117)](https://github.com/smart-jemy/moneib-talabat)
-[![OPEN APP](https://img.shields.io/badge/OPEN%20APP-%F0%9F%9B%B5%20LIVE-FF5A00?style=for-the-badge&labelColor=0d1117)](https://smart-jemy.github.io/moneib-menu/)
+[![OPEN APP](https://img.shields.io/badge/OPEN%20APP-%F0%9F%9B%B5%20LIVE-0098B0?style=for-the-badge&labelColor=0d1117)](https://otlobni.surge.sh/)
 
 | تطبيق أندرويد | لوحة تحكم الإدارة | طلب أونلاين |
 |---|---|---|
 | <img src="assets/otlobny-app.png" width="240" alt="app" /> | <img src="assets/otlobny-admin.png" width="300" alt="admin" /> | <img src="assets/otlobny-web.png" width="240" alt="web" /> |
 
-📌 **[الموقع الحي](https://smart-jemy.github.io/moneib-menu/)** · **[📥 تحميل APK](https://files.catbox.moe/5oqjyt.apk)** · **[📖 Case Study كاملة](https://jemyv2.vercel.app/projects/moneib-delivery)** · **[الكود (خاص)](https://github.com/smart-jemy/moneib-talabat)**
+📌 **[الموقع الحي](https://otlobni.surge.sh/)** · **[📥 تحميل APK v2.1](https://files.catbox.moe/q7n2tf.apk)** · **[📖 Case Study كاملة](https://jemyv2.vercel.app/projects/moneib-delivery)** · **[الكود (خاص)](https://github.com/smart-jemy/moneib-talabat)**
+
+**جديد v2.1:** بوابة أصحاب المطاعم (كل مطعم يدير منيوه وأسعاره وصور أصنافه من التطبيق) · إسناد الأوردرات للكباتن بمهلة قبول 30 ثانية وإعادة توجيه تلقائية · تصعيد واتساب تلقائي للإدارة بعد 5 دقايق من غير استلام · أرشفة شهرية تحافظ على البيانات مهما كبرت.
 
 **تجربة كاملة لايف:** تطبيق أندرويد + موقع طلب + لوحة إدارة + نظام كباتن معتمدين — شغالة على منطقة حقيقية، والبنية جاهزة للتوسع لمناطق جديدة.
 
@@ -143,7 +145,7 @@ pipeline, and confidence-scored results. Built for pentesters & bug bounty hunte
 | Project | About |
 |---|---|
 | 🔓 **[CloudFail-Killer (CloudKill)](https://github.com/smart-jemy/cloudfail-killer)** | ⭐ **Flagship security tool** — origin-IP discovery behind Cloudflare · 15+ sources · 343 tests · SARIF & signed reports |
-| 🛵 **[Otlobny — اطلبني](https://github.com/smart-jemy/moneib-talabat)** → [**LIVE**](https://smart-jemy.github.io/moneib-menu/) | 🚀 Zone-locked delivery platform — Android (native Java, 112KB) · Web · Admin dashboard · GitHub-backed data · 0 security findings |
+| 🛵 **[Otlobny — اطلبني](https://github.com/smart-jemy/moneib-talabat)** → [**LIVE**](https://otlobni.surge.sh/) | 🚀 Zone-locked delivery platform — Android (native Java) · Web · Admin dashboard · Restaurant self-service portal · 30s live dispatch · GitHub-backed data · 0 security findings |
 | [**Portfolio Website**](https://github.com/smart-jemy/portfolio-website) → [**LIVE**](https://jemyv2.vercel.app) | 💼 Bilingual (AR/EN) portfolio — Next.js 16 · React 19 · hidden analytics panel |
 | [**Gadgeta Store**](https://github.com/smart-jemy/gadgeta) → [**LIVE**](https://gadgate.vercel.app) | 🍳 Magic & Innovation e-commerce — golden deals · coupons · Neon Postgres |
 | [**Yalla Shiaka Store**](https://github.com/smart-jemy/khatwa-store) → [**LIVE**](https://yallashiaka.vercel.app) | 🥾 E-commerce with admin & supervisor dashboards — Next.js · Prisma |
@@ -179,7 +181,7 @@ pipeline, and confidence-scored results. Built for pentesters & bug bounty hunte
 
 [![🥇 5 LIVE SYSTEMS](https://img.shields.io/badge/🥇-5_LIVE_SYSTEMS-D4AF37?style=for-the-badge&labelColor=0d1117)](https://github.com/smart-jemy?tab=repositories)
 [![📦 14 REPOSITORIES](https://img.shields.io/badge/📦-14_REPOSITORIES-D4AF37?style=for-the-badge&labelColor=0d1117)](https://github.com/smart-jemy?tab=repositories)
-[![🛵 OTLOBNY v1.5 SHIPPED](https://img.shields.io/badge/🛵-MONEIB_v1.5_SHIPPED-FF5A00?style=for-the-badge&labelColor=0d1117)](https://github.com/smart-jemy/moneib-menu)
+[![🛵 OTLOBNY v2.1 LIVE](https://img.shields.io/badge/🛵-OTLOBNY_v2.1_LIVE-0098B0?style=for-the-badge&labelColor=0d1117)](https://otlobni.surge.sh)
 [![🔐 SECURITY FIRST](https://img.shields.io/badge/🔐-SECURITY_FIRST-17A05D?style=for-the-badge&labelColor=0d1117)](https://github.com/smart-jemy/cloudfail-killer)
 [![⚡ ZERO SERVER COSTS](https://img.shields.io/badge/⚡-ZERO_SERVER_COSTS-2E7DD1?style=for-the-badge&labelColor=0d1117)](https://github.com/smart-jemy/moneib-talabat)
 
